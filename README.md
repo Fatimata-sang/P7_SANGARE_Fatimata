@@ -16,7 +16,7 @@ _Testé sous Windows 10 - Python version 3.10.9
 cloner le projet
 
 ```
-git clone https://github.com/Fatimata-sang/P7_SANGARE_Fatimata_Fatim.git
+git clone https://github.com/Fatimata-sang/P7_SANGARE_Fatimata.git
 ```
 Créer un environnement virtuel
 
